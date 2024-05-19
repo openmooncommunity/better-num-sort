@@ -1,6 +1,6 @@
 {
   "name": "better-num-sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A powerful JavaScript library for sorting arrays of numbers with enhanced performance and additional features. It supports various number formats, handles special values like NaN and Infinity, and offers customizable sorting options. Easy to integrate and use in any project.",
   "main": "index.js",
   "scripts": {
