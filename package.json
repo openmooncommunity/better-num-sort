@@ -1,0 +1,65 @@
+{
+  "name": "better-num-sort",
+  "version": "1.0.0",
+  "description": "A powerful JavaScript library for sorting arrays of numbers with enhanced performance and additional features. It supports various number formats, handles special values like NaN and Infinity, and offers customizable sorting options. Easy to integrate and use in any project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest && tsd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openmooncommunity/better-num-sort.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "sorting",
+    "numbers",
+    "array",
+    "custom",
+    "comparator",
+    "NaN",
+    "Infinity",
+    "performance",
+    "sorting",
+    "algorithm",
+    "ascending",
+    "descending",
+    "library",
+    "open-source",
+    "npm",
+    "better-num-sort",
+    "numeric",
+    "sorting",
+    "efficient",
+    "sorting",
+    "data",
+    "processing",
+    "enhanced",
+    "performance",
+    "customizable"
+  ],
+  "author": {
+    "name": "SpaceHub Studio",
+    "email": "support@spacehubnetwork.com",
+    "url": "https://spacehubnetwork.com/"
+  },
+  "type": "module",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "engines": {
+    "node": ">=12"
+  },
+  "exports": "./index.js",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/openmooncommunity/better-num-sort/issues"
+  },
+  "homepage": "https://github.com/openmooncommunity/better-num-sort#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "tsd": "^0.31.0"
+  }
+}
